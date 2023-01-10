@@ -1,0 +1,13 @@
+name: monitor
+title: monitor
+username:
+account: cgn-monitor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3293110
+bundleId: 6681275
+url: https://cgn-monitor.shinyapps.io/monitor/
+when: 1672322939.67129
+lastSyncTime: 1672322939.6713
+asMultiple: FALSE
+asStatic: FALSE

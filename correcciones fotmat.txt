@@ -1,0 +1,5 @@
+> su <-  c("root", "", "CGN collection", sum(main.groups$Count), main.groups[,5:(4+length(num.vars))] %>% colMeans(na.rm = T) %>% round(2), main.groups[,columnsSelect[1]: columnsSelect[length(columnsSelect)]] %>% colSums(na.rm = T))
+> nsum <- matrix( ncol = 12, nrow =  1)
+> colnames(nsum) <- colnames(summary)
+> nsum <- (rbind(su, c("root", "", "CGN collection", sum(main.groups$Count), main.groups[,5:(4+length(num.vars))] %>% colMeans(na.rm = T) %>% round(2), main.groups[,columnsSelect[1]: columnsSelect[length(columnsSelect)]] %>% colSums(na.rm = T))))
+> view(nsum)

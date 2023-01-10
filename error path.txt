@@ -1,0 +1,7 @@
+app.r
+fotmat_for_sunburst.r
+Crop groups.csv
+
+El error se encontrabaen la asignacion de paths, se deben asignar el mismo numero de digitos para cada nivel visual en la grafica (piso)
+
+
