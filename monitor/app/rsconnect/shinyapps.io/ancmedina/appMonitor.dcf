@@ -1,0 +1,14 @@
+name: appMonitor
+title: appMonitor
+username:
+account: ancmedina
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8043298
+bundleId: 6737563
+url: https://ancmedina.shinyapps.io/appMonitor/
+when: 1673837706.77604
+lastSyncTime: 1673837706.77605
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: tests/shinytest.R

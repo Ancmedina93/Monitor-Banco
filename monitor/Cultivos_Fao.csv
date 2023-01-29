@@ -1,0 +1,62 @@
+Cultivo;Id_Cultivo;Especie;Id_Especie;CategoriaSemilla;Id_CategoriaSemilla
+Arroz;10;Oryza sativa;10;Ortodoxa;10
+Cebada;11;Hordeum vulgare;10;Ortodoxa;10
+Maiz ;12;Zea mays;10;Ortodoxa;10
+Sorgo;13;Sorghum bicolor;10;Ortodoxa;10
+Mora;14;Rubus adenotrichos;10;Ortodoxa;10
+Mora;14;Rubus glaucus;11;Ortodoxa;10
+Mora;14;Rubus idaeus;12;Ortodoxa;10
+Mora;14;Rubus niveus;13;Ortodoxa;10
+Mora;14;Rubus pallidus;14;Ortodoxa;10
+Mora;14;Rubus peruvianus;15;Ortodoxa;10
+Mora;14;Rubus robustus;16;Ortodoxa;10
+Mora;14;Rubus rosifolius;17;Ortodoxa;10
+Mora;14;Rubus sp;18;Ortodoxa;10
+Mora;14;Rubus urticifolius;19;Ortodoxa;10
+Passifloras;15;Passiflora adenopoda;10;Ortodoxa;10
+Passifloras;15;Passiflora ambigua;11;Ortodoxa;10
+Passifloras;15;Passiflora caerulea;12;Ortodoxa;10
+Passifloras;15;Passiflora capsularis;13;Ortodoxa;10
+Passifloras;15;Passiflora cumbalensis;14;Ortodoxa;10
+Passifloras;15;Passiflora edulis;15;Ortodoxa;10
+Passifloras;15;Passiflora edulis fo. edulis;16;Ortodoxa;10
+Passifloras;15;Passiflora ligularis;17;Ortodoxa;10
+Passifloras;15;Passiflora maliformis;18;Ortodoxa;10
+Passifloras;15;Passiflora mixta;19;Ortodoxa;10
+Passifloras;15;Passiflora mollissima;20;Ortodoxa;10
+Passifloras;15;Passiflora sanguinolenta;21;Ortodoxa;10
+Passifloras;15;Passiflora sp;22;Ortodoxa;10
+Passifloras;15;Passiflora tarminiana;23;Ortodoxa;10
+Passifloras;15;Passiflora tripartita;24;Ortodoxa;10
+Soya;16;Glycine max;10;Ortodoxa;10
+Papa;17;Solanum  antipoviczii;10;Ortodoxa;10
+Papa;17;Solanum  colombianum;11;Ortodoxa;10
+Papa;17;Solanum  curtilobum;12;Ortodoxa;10
+Papa;17;Solanum  malinchense;13;Ortodoxa;10
+Papa;17;Solanum chmielewskii;14;Ortodoxa;10
+Papa;17;Solanum corneliomulleri;15;Ortodoxa;10
+Papa;17;Solanum phureja subsp. phureja;16;Ortodoxa;10
+Papa;17;Solanum sp;17;Ortodoxa;10
+Papa;17;Solanum tuberosum subsp. andigena;18;Ortodoxa;10
+Papa;17;Solanum tuberosum subsp. tuberosum;19;Ortodoxa;10
+Berenjena;18;Solanum melongena;10;Ortodoxa;10
+Lulo;19;Solanum  capsicoides;10;Ortodoxa;10
+Lulo;19;Solanum  hirtum;11;Ortodoxa;10
+Lulo;19;Solanum  jamaicense;12;Ortodoxa;10
+Lulo;19;Solanum  macracanthum;13;Ortodoxa;10
+Lulo;19;Solanum  mammosum;14;Ortodoxa;10
+Lulo;19;Solanum  marginatum;15;Ortodoxa;10
+Lulo;19;Solanum  pectinatum;16;Ortodoxa;10
+Lulo;19;Solanum  pseudolulo;17;Ortodoxa;10
+Lulo;19;Solanum  quitoense;18;Ortodoxa;10
+Lulo;19;Solanum  saponaceum;19;Ortodoxa;10
+Lulo;19;Solanum  sessiliflorum;20;Ortodoxa;10
+Tomate de mesa;20;Solanum habrochaites;10;Ortodoxa;10
+Tomate de mesa;20;Solanum lycopersicum;11;Ortodoxa;10
+Tomate de mesa;20;Solanum neorickii;12;Ortodoxa;10
+Tomate de mesa;20;Solanum pennellii;13;Ortodoxa;10
+Tomate de mesa;20;Solanum peruvianum;14;Ortodoxa;10
+Tomate de mesa;20;Solanum pimpinellifolium;15;Ortodoxa;10
+Tomate de mesa;20;Solanum sp.;16;Ortodoxa;10
+Tomate de mesa;20;Solanum subsect. lycopersicon hybr.;17;Ortodoxa;10
+Tomate de mesa;20;Solanum lycopersicum var. cerasiforme;18;Ortodoxa;10

@@ -1,0 +1,14 @@
+name: appMonitorBGVCOL
+title: appMonitorBGVCOL
+username:
+account: cgn-monitor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8043275
+bundleId: 6737529
+url: https://cgn-monitor.shinyapps.io/appMonitorBGVCOL/
+when: 1673836773.02909
+lastSyncTime: 1673836773.0291
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: tests/shinytest.R

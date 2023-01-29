@@ -8,7 +8,7 @@ library(tibble)
 # GET DATA
 ##############
 
-setwd("C:/Users/ancm9/Desktop/Genebank Monitor/")
+setwd("C:/Users/ancm9/Desktop/Genebank Monitor/monitor/")
 
 data.types <- fread("Expandedcollectiondata.csv", nrows = 2, header =TRUE) %>% colnames()
 num.vars <- which(data.types == "Numerical")
@@ -68,6 +68,7 @@ summary <- filter(summary, summary$Count>0)
 summary <- add_column(summary, ParentCNR = substring(summary$CNR, 1, nchar(summary$CNR)-2), .after = 1)
 summary[nchar(summary$CNR) ==2, 2] <- "root"
 
+
 #Add CGN root row
 main.groups <- summary %>% filter(ParentCNR == "root") %>% 
   mutate_at(.vars = 4:ncol(summary), .funs = as.numeric)
@@ -110,3 +111,4 @@ summary <- filter(summary, summary$Count>0)
 ##############
 
 fwrite(summary, "Sunburst_data.csv", sep = ";", row.names = FALSE, col.names = TRUE)
+
